@@ -37,6 +37,7 @@ public final class R {
     public static final class id {
         public static final int dot_layout=0x7f070002;
         public static final int id_quantity=0x7f070004;
+        public static final int id_unit=0x7f070005;
         public static final int image=0x7f070003;
         public static final int tv_intro=0x7f070001;
         public static final int viewPager=0x7f070000;
