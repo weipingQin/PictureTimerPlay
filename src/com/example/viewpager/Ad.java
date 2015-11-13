@@ -1,6 +1,9 @@
 package com.example.viewpager;
 
 public class Ad {
+
+	///封装相应的实体类
+	
 	private int iconResId;
 	private String intro;
 	
